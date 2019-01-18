@@ -1,0 +1,2 @@
+# lotto
+Lotto-Inspektor.de
