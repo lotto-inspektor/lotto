@@ -1,0 +1,217 @@
+body{
+	font-family:		Verdana, Helvetica,  sans-serifa;
+	font-size:			9pt;
+	color:				#000;
+	margin:				0px;
+	background-color:	#4A4A4A;
+}
+
+.small_box, .small_box_right, .big_box{
+	background-color:	#FFF;
+}
+
+div.l34 a{
+	text-decoration: 	underline;
+}
+
+#header p{
+	color:				#2A70AE;
+	font-size:			26pt;
+}
+
+.small_box_header, .big_box_header, .small_box_header_right{
+	color:	#FFF;
+}
+
+
+a{
+	color:				#2A70AE;
+	text-decoration:	none;
+}
+
+#content_rahmen{
+	width:				802px;
+	background-image:	url(/web/20111229103141im_/http://www.lotto-inspektor.de/images/content.jpg);
+	margin-left: 		auto;
+	margin-right: 		auto;
+	overflow:			hidden;
+}
+
+#content{
+	width:				800px;
+	float:				left;
+}
+
+#header{
+	float:				left;
+	width:				762px;
+	height:				76px;
+	margin-left:		19px;
+}
+
+#w3c{
+	width:				802px;
+	float:				left;
+	margin-left:		19px;
+}
+
+#footer{
+	background-image:	url(/web/20111229103141im_/http://www.lotto-inspektor.de/images/content.jpg);
+	height:				28px;
+	width:				802px;
+	float:				left;
+	text-align:			right;
+}
+#footer p{
+	margin-right:		25px;
+	float:				right;
+	color:				#000;
+}
+#footer a{
+	color:				#fff;
+	font-size:			10pt;
+}
+#footer a:hover{
+	color:				#00f;
+	text-decoration:	underline;
+	font-size:			11pt;
+}
+
+.menue_footer{
+	width:				976px;
+	float:				left;
+	text-align:			right;
+	color:				#000;
+}
+
+
+#left{
+	float:				left;
+	width:				171px;
+	margin-top:			19px;
+	margin-left:		19px;
+	margin-right:		19px;
+}
+
+#left img{
+	border:				0px;
+}
+
+#right{
+	float:				left;
+	width:				191px;
+	margin-top:			19px;
+	margin-left:		19px;
+}
+
+* html #header {
+	margin-left: 10px;
+	margin-right: 9px;
+}
+
+* html #left {
+	margin-left: 9px;
+}
+
+
+
+.small_box{
+	width:				171px;
+	float:				left;
+	display:			inline;
+	margin-bottom:		19px;
+}
+
+.small_box_right{
+	width:				191px;
+	float:				left;
+	display:			inline;
+	margin-bottom:		19px;
+}
+
+.small_box_header, .big_box_header{
+	background-image:	url(/web/20111229103141im_/http://www.lotto-inspektor.de/images/bg_left_box.jpg);
+	height:				21px;	
+	font-size:			9pt;
+	padding-left:		9px;
+	padding-right:		9px;
+	padding-top:		2px;
+}
+
+.small_box_header_right{
+	background-image:	url(/web/20111229103141im_/http://www.lotto-inspektor.de/images/bg_right_box.jpg);
+	height:				21px;	
+	font-size:			9pt;
+	padding-left:		9px;
+	padding-right:		9px;
+	padding-top:		2px;
+}
+
+.small_box_content{
+	padding-top:		12px;
+	padding-left:		9px;
+	padding-bottom:		9px;
+	padding-right:		7px;
+}
+
+div.clear{
+	line-height:		0pt;
+}
+
+#middle{
+	float:				left;
+	width:				362px;
+	margin-top:			19px;
+}
+
+.big_box{
+	width:				362px;
+	float:				left;
+	display:			inline;
+	margin-bottom:		19px;
+}
+
+.big_box_header{
+	background-image:	url(/web/20111229103141im_/http://www.lotto-inspektor.de/images/bg_middle_box_1.jpg);
+}
+
+.big_box_content{
+	padding-top:		12px;
+	padding-left:		9px;
+	padding-bottom:		9px;
+	padding-right:		9px;
+}
+
+.title_content{
+	font-size:			12pt;
+	color:				#2A70AE;
+	padding-bottom:		15px;
+}
+
+
+
+.text{
+	font-size:			8pt;
+}
+
+/*
+     FILE ARCHIVED ON 10:31:41 Dec 29, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:12:43 Jan 18, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 60.899 (3)
+  esindex: 0.008
+  captures_list: 80.698
+  CDXLines.iter: 15.192 (3)
+  PetaboxLoader3.datanode: 122.227 (4)
+  exclusion.robots: 0.219
+  exclusion.robots.policy: 0.208
+  RedisCDXSource: 0.505
+  PetaboxLoader3.resolve: 49.877
+  load_resource: 144.994
+*/
